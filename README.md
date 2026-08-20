@@ -20,7 +20,7 @@ Designed with a modern, application-style user interface, this tool empowers dis
 *   **Custom DAX Measures:** Developed targeted calculations to quantify addiction scoring, relationship conflict levels, and percentage-based academic impact models.
 *   **Application-Style UI/UX:** Replaced standard report tabs with a centralized navigation menu, utilizing hover-state buttons, custom vector graphics, and a unified color palette (Deep Navy & Warm Coral) for an intuitive user experience.
 *   **Interactive Storytelling:** Implemented advanced Bookmark and Selection pane features to allow users to toggle seamlessly between demographic perspectives (Gender vs. Academic Level) within a single view.
-*   **Granular Drill-Throughs:** Created a customized CRM-style Student Profile directory, enabling stakeholders to drill down from aggregated scatter plots into individual student health and performance metrics.
+*   **Granular Drill-Throughs:** Created a customized CRM-style Student Profile directory, enabling stakeholders to drill down from Student Directory into individual student health and performance metrics.
 
 ---
 
